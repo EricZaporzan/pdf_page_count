@@ -8,3 +8,6 @@ Running the script with a pdf filename as the only argument, as ```python pdf_pa
 
 Finally, running the script with a directory as the only argument, as ```python pdf_page_count /path/to/your/files/``` will sum up all of the pages of all of the .pdf files in that directory. 
 
+## Acknowledgements
+
+The code for counting pages of a single file came from http://stackoverflow.com/questions/16647746/how-to-count-the-numer-of-pdf-pages-in-python-that-has-blank-pdf-page-also 
